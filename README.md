@@ -1,6 +1,6 @@
 # Lung Inflammatory Disease Classification using X-Ray Images
 
-## Data Exploration & Data split
+## Data Exploration & Data Split
 
 ## Preprocessing
 <ul>
