@@ -1,2 +1,5 @@
-# Lung-Inflammatory-Disease-CLassification-using-X-Ray-Images
-Lung Inflammatory Disease CLassification using X-Ray Images
+# Covid-19
+
+Data(Fotolar) WeTransfer üzerinden gönderildi.
+covid.ipynb = CNN ile ilgili çalışmadır. 
+
