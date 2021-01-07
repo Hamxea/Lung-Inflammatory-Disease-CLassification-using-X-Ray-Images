@@ -1,10 +1,43 @@
 # Covid-19
 
-Data(Fotolar) WeTransfer üzerinden gönderildi.
-covid.ipynb = CNN ile ilgili çalışmadır. 
+### Data Exploration
+
+### Preprocessing
+<ul>
+    <li>Apply data cleaning</li>
+</ul>
+
+### Data split
+<ul>
+    <li>Prepare the data</li>
+    <li>Data split:</li>
+    <ul>
+        <li>Train data and test data are split in the image-dataset directory</li>
+    </ul>
+</ul>
+
+        
+### Methods(Transfer Learning)
+<ul>
+    <li> RESNET34 </li>
+    <li> RESNET50</li>
+    <li> Vgg19_bn</li>
+    <li> Alexnet </li>
+    <li> Densenet201</li>
+    <li> Mobilenet_v2
+    <li> Squeezenet1_1 </li>
+    <li> InceptionV3</li>
+</ul>
+ 
+ 
+### Model Evaluation
+<ul>
+    <li>Evaluate how accuarate the model performs with respect to the data (Acccuracy, score)</li>
+    <li>Find the average error of your model (use testing data only) a.k.a model test/prediction evaluation</li>
+</ul>
 
 
-
+### Results
 
 
 | | | | Model Accuracy With Epoch=8 | | | |
