@@ -1,8 +1,8 @@
 # Covid-19
 
-### Data Exploration & Data split
+## Data Exploration & Data split
 
-### Preprocessing
+## Preprocessing
 <ul>
     <li>Prepare the data</li>
     <li>Data split:</li>
@@ -12,7 +12,7 @@
 </ul>
 
         
-### Methods
+## Methods
 
 ### Baseline CNN 
 <ul>
@@ -32,14 +32,14 @@
 </ul>
  
  
-### Model Evaluation
+## Model Evaluation
 <ul>
     <li>Evaluate how accuarate the model performs with respect to the data in terms of prediction accuracy and other classifcation metrics </li>
     <li>Find the average error of your model (use testing data only) a.k.a model test/prediction evaluation</li>
 </ul>
 
 
-### Results
+## Results
 
 
 | | | | Model Accuracy With Epoch=8 | | | |
