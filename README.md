@@ -18,7 +18,8 @@
 <ul>
     <li> Convolutional Nural Ntwork </li>
 </ul>
-#### Transfer Learning
+
+### Transfer Learning
 <ul>
     <li> RESNET34 </li>
     <li> RESNET50</li>
