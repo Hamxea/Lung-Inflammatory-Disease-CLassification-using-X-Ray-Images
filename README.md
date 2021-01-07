@@ -48,7 +48,7 @@
 ## Results
 
 
-| | | | Model Accuracy With Epoch=8 | | | |
+| | | | Model Accuracy With| | | |
 |------|------|------|------|------|------|------|
 
 |Resnet34|Resnet50|Vgg19|Alextnet|Densenet201|Mobilenet_v2|Squeezenet1_1|Cnn|
