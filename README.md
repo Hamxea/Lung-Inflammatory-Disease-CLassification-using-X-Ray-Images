@@ -1,13 +1,8 @@
 # Covid-19
 
-### Data Exploration
+### Data Exploration & Data split
 
 ### Preprocessing
-<ul>
-    <li>Apply data cleaning</li>
-</ul>
-
-### Data split
 <ul>
     <li>Prepare the data</li>
     <li>Data split:</li>
@@ -17,7 +12,13 @@
 </ul>
 
         
-### Methods(Transfer Learning)
+### Methods
+
+### Baseline CNN 
+<ul>
+    <li> Convolutional Nural Ntwork </li>
+</ul>
+#### Transfer Learning
 <ul>
     <li> RESNET34 </li>
     <li> RESNET50</li>
@@ -32,7 +33,7 @@
  
 ### Model Evaluation
 <ul>
-    <li>Evaluate how accuarate the model performs with respect to the data (Acccuracy, score)</li>
+    <li>Evaluate how accuarate the model performs with respect to the data in terms of prediction accuracy and other classifcation metrics </li>
     <li>Find the average error of your model (use testing data only) a.k.a model test/prediction evaluation</li>
 </ul>
 
