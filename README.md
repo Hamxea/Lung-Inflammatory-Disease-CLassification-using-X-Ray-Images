@@ -34,7 +34,7 @@
     <li> Densenet201</li>
     <li> Mobilenet_v2
     <li> Squeezenet1_1 </li>
-    <li> InceptionV3</li>
+ 
 </ul>
  
  
