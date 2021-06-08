@@ -40,7 +40,7 @@
  
 ### Model Evaluation
 <ul>
-    <li>Evaluate how accuarate the model performs with respect to the data in terms of prediction accuracy and other classifcation metrics </li>
+    <li>Evaluate how accuarate the model performs with respect to the data in terms of prediction accuracy and other classification metrics </li>
     <li>Find the average error of your model (use testing data only) a.k.a model test/prediction evaluation</li>
 </ul>
 
