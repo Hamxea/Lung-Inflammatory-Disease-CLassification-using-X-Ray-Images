@@ -1,14 +1,14 @@
-# Lung Inflammatory Disease Classification using X-Ray Images
+## Lung Inflammatory Disease Classification using X-Ray Images
 
-## Data Source
+### Data Source
 <ul>
     <li> https://github.com/ieee8023/covid-chestxray-dataset  </li>
     <li> https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset </li>
 </ul>
 
-## Data Exploration & Data Split
+### Data Exploration & Data Split
 
-## Preprocessing
+### Preprocessing
 <ul>
     <li>Prepare the data</li>
     <li>Data split:</li>
@@ -18,14 +18,14 @@
 </ul>
 
         
-## Methods
+### Methods
 
-### Baseline CNN 
+#### Baseline CNN 
 <ul>
     <li> Convolutional Nural Ntwork </li>
 </ul>
 
-### Transfer Learning
+#### Transfer Learning
 <ul>
     <li> RESNET34 </li>
     <li> RESNET50</li>
@@ -38,14 +38,14 @@
 </ul>
  
  
-## Model Evaluation
+### Model Evaluation
 <ul>
     <li>Evaluate how accuarate the model performs with respect to the data in terms of prediction accuracy and other classifcation metrics </li>
     <li>Find the average error of your model (use testing data only) a.k.a model test/prediction evaluation</li>
 </ul>
 
 
-## Results
+### Results
 
 
 | | | | Model Accuracy | | | | 
