@@ -1,4 +1,4 @@
-## Lung Inflammatory Disease Classification using X-Ray Images
+# Lung Inflammatory Disease Classification using X-Ray Images
 
 ### Data Source
 <ul>
